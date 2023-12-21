@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(218, 216, 245);
+    text-align: center;
+}
+header{
+    color: rgb(38, 15, 119);
+}
+h1{
+    color: rgb(65, 5, 121);
+}
+table{
+    color: rgb(89, 89, 155);
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+#header-2{
+    color: rgb(107, 97, 161);
+}
+#paragraph{
+    color: rgb(93, 119, 190);
+}
+.header-3{
+    color: rgb(163, 120, 231);
+}
+.u-list{
+    color: rgb(72, 72, 134);
+
+}
+.form-1{
+    color: blueviolet;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
